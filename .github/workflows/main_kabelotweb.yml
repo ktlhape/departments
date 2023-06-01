@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'Kabelotweb'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_432D0BFA26D3470FACD14DCC51F54419 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1AAE24B406D347E2B4C04C96949D5001 }}
           package: .
